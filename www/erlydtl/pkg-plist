@@ -45,5 +45,7 @@
 %%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/i18n/sources_parser.erl
 @dirrm %%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/ebin
 @dirrm %%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/include
+@dirrm %%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/filter_lib
+@dirrm %%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/i18n
 @dirrm %%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src
 @dirrm %%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%
