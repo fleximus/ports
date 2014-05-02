@@ -30,6 +30,8 @@ COWBOY_DESC=		Cowboy webserver
 MOCHIWEB_DESC=		Mochiweb webserver
 YAWS_DESC=		Yaws webserver
 
+MAKE_JOBS_UNSAFE=	yes
+
 .include <bsd.port.options.mk>
 
 .  if ${PORT_OPTIONS:MCOWBOY}
