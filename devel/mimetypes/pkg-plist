@@ -1,0 +1,23 @@
+%%LIB32DIR%%/erlang/lib/mimetypes-%%VERSION%%/ebin/mimetypes.app
+%%LIB32DIR%%/erlang/lib/mimetypes-%%VERSION%%/ebin/mimetypes.beam
+%%LIB32DIR%%/erlang/lib/mimetypes-%%VERSION%%/ebin/mimetypes_app.beam
+%%LIB32DIR%%/erlang/lib/mimetypes-%%VERSION%%/ebin/mimetypes_disp.beam
+%%LIB32DIR%%/erlang/lib/mimetypes-%%VERSION%%/ebin/mimetypes_loader.beam
+%%LIB32DIR%%/erlang/lib/mimetypes-%%VERSION%%/ebin/mimetypes_map.beam
+%%LIB32DIR%%/erlang/lib/mimetypes-%%VERSION%%/ebin/mimetypes_parse.beam
+%%LIB32DIR%%/erlang/lib/mimetypes-%%VERSION%%/ebin/mimetypes_scan.beam
+%%LIB32DIR%%/erlang/lib/mimetypes-%%VERSION%%/ebin/mimetypes_sup.beam
+%%LIB32DIR%%/erlang/lib/mimetypes-%%VERSION%%/priv/mime.types
+%%LIB32DIR%%/erlang/lib/mimetypes-%%VERSION%%/src/mimetypes.app.src
+%%LIB32DIR%%/erlang/lib/mimetypes-%%VERSION%%/src/mimetypes.erl
+%%LIB32DIR%%/erlang/lib/mimetypes-%%VERSION%%/src/mimetypes_app.erl
+%%LIB32DIR%%/erlang/lib/mimetypes-%%VERSION%%/src/mimetypes_loader.erl
+%%LIB32DIR%%/erlang/lib/mimetypes-%%VERSION%%/src/mimetypes_parse.erl
+%%LIB32DIR%%/erlang/lib/mimetypes-%%VERSION%%/src/mimetypes_parse.yrl
+%%LIB32DIR%%/erlang/lib/mimetypes-%%VERSION%%/src/mimetypes_scan.erl
+%%LIB32DIR%%/erlang/lib/mimetypes-%%VERSION%%/src/mimetypes_scan.xrl
+%%LIB32DIR%%/erlang/lib/mimetypes-%%VERSION%%/src/mimetypes_sup.erl
+@dirrm %%LIB32DIR%%/erlang/lib/mimetypes-%%VERSION%%/ebin
+@dirrm %%LIB32DIR%%/erlang/lib/mimetypes-%%VERSION%%/priv
+@dirrm %%LIB32DIR%%/erlang/lib/mimetypes-%%VERSION%%/src
+@dirrm %%LIB32DIR%%/erlang/lib/mimetypes-%%VERSION%%

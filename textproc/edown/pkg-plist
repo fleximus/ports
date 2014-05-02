@@ -1,0 +1,14 @@
+%%LIB32DIR%%/erlang/lib/edown-%%VERSION%%/ebin/edown_doclet.beam
+%%LIB32DIR%%/erlang/lib/edown-%%VERSION%%/ebin/edown_layout.beam
+%%LIB32DIR%%/erlang/lib/edown-%%VERSION%%/ebin/edown_lib.beam
+%%LIB32DIR%%/erlang/lib/edown-%%VERSION%%/ebin/edown_make.beam
+%%LIB32DIR%%/erlang/lib/edown-%%VERSION%%/ebin/edown_xmerl.beam
+%%LIB32DIR%%/erlang/lib/edown-%%VERSION%%/src/edown.app.src
+%%LIB32DIR%%/erlang/lib/edown-%%VERSION%%/src/edown_doclet.erl
+%%LIB32DIR%%/erlang/lib/edown-%%VERSION%%/src/edown_layout.erl
+%%LIB32DIR%%/erlang/lib/edown-%%VERSION%%/src/edown_lib.erl
+%%LIB32DIR%%/erlang/lib/edown-%%VERSION%%/src/edown_make.erl
+%%LIB32DIR%%/erlang/lib/edown-%%VERSION%%/src/edown_xmerl.erl
+@dirrm %%LIB32DIR%%/erlang/lib/edown-%%VERSION%%/ebin
+@dirrm %%LIB32DIR%%/erlang/lib/edown-%%VERSION%%/src
+@dirrm %%LIB32DIR%%/erlang/lib/edown-%%VERSION%%

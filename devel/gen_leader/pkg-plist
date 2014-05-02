@@ -1,0 +1,6 @@
+%%LIB32DIR%%/erlang/lib/gen_leader-%%VERSION%%/ebin/gen_leader.app
+%%LIB32DIR%%/erlang/lib/gen_leader-%%VERSION%%/ebin/gen_leader.beam
+%%LIB32DIR%%/erlang/lib/gen_leader-%%VERSION%%/src/gen_leader.erl
+@dirrm %%LIB32DIR%%/erlang/lib/gen_leader-%%VERSION%%/ebin
+@dirrm %%LIB32DIR%%/erlang/lib/gen_leader-%%VERSION%%/src
+@dirrm %%LIB32DIR%%/erlang/lib/gen_leader-%%VERSION%%

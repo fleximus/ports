@@ -1,0 +1,3 @@
+A project to unify various implementations of the Erlang library gen_leader into a modern, robust single implementation
+
+WWW: https://github.com/abecciu/gen_leader_revival

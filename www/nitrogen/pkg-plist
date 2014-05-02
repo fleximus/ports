@@ -1,0 +1,49 @@
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/ebin/blocktrans_extractor.beam
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/ebin/blocktrans_parser.beam
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/ebin/blocktrans_scanner.beam
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/ebin/erlydtl.app
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/ebin/erlydtl.beam
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/ebin/erlydtl_compiler.beam
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/ebin/erlydtl_contrib_humanize.beam
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/ebin/erlydtl_dateformat.beam
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/ebin/erlydtl_deps.beam
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/ebin/erlydtl_filters.beam
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/ebin/erlydtl_i18n.beam
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/ebin/erlydtl_parser.beam
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/ebin/erlydtl_runtime.beam
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/ebin/erlydtl_scanner.beam
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/ebin/erlydtl_slice.beam
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/ebin/erlydtl_unparser.beam
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/ebin/i18n_manager.beam
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/ebin/po_generator.beam
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/ebin/po_scanner.beam
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/ebin/sources_parser.beam
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/include/erlydtl_ext.hrl
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/include/erlydtl_preparser.hrl
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/erlydtl.app.src
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/erlydtl.erl
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/erlydtl_compiler.erl
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/erlydtl_contrib_humanize.erl
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/erlydtl_deps.erl
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/erlydtl_filters.erl
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/erlydtl_i18n.erl
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/erlydtl_parser.erl
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/erlydtl_parser.yrl
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/erlydtl_runtime.erl
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/erlydtl_scanner.erl
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/erlydtl_scanner.slex
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/erlydtl_unparser.erl
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/filter_lib/erlydtl_dateformat.erl
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/filter_lib/erlydtl_slice.erl
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/i18n/Makefile
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/i18n/blocktrans_extractor.erl
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/i18n/blocktrans_parser.erl
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/i18n/blocktrans_scanner.erl
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/i18n/i18n_manager.erl
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/i18n/po_generator.erl
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/i18n/po_scanner.erl
+%%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src/i18n/sources_parser.erl
+@dirrm %%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/ebin
+@dirrm %%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/include
+@dirrm %%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%/src
+@dirrm %%LIB32DIR%%/erlang/lib/erlydtl-%%VERSION%%

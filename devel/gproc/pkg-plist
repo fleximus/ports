@@ -1,0 +1,36 @@
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/ebin/gproc.app
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/ebin/gproc.beam
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/ebin/gproc_app.beam
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/ebin/gproc_bcast.beam
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/ebin/gproc_dist.beam
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/ebin/gproc_info.beam
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/ebin/gproc_init.beam
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/ebin/gproc_lib.beam
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/ebin/gproc_monitor.beam
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/ebin/gproc_pool.beam
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/ebin/gproc_ps.beam
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/ebin/gproc_pt.beam
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/ebin/gproc_sup.beam
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/priv/check_edown.script
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/priv/remove_deps.script
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/priv/sys.config
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/src/Makefile
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/src/gproc.app.src
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/src/gproc.app.src.bak
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/src/gproc.erl
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/src/gproc_app.erl
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/src/gproc_bcast.erl
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/src/gproc_dist.erl
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/src/gproc_info.erl
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/src/gproc_init.erl
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/src/gproc_int.hrl
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/src/gproc_lib.erl
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/src/gproc_monitor.erl
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/src/gproc_pool.erl
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/src/gproc_ps.erl
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/src/gproc_pt.erl
+%%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/src/gproc_sup.erl
+@dirrm %%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/ebin
+@dirrm %%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/priv
+@dirrm %%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%/src
+@dirrm %%LIB32DIR%%/erlang/lib/gproc-%%VERSION%%
