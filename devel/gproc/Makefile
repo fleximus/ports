@@ -10,8 +10,8 @@ COMMENT=	Extended process registry for Erlang
 BUILD_DEPENDS=	erlc:${PORTSDIR}/lang/erlang \
 		rebar:${PORTSDIR}/devel/rebar
 RUN_DEPENDS=	erl:${PORTSDIR}/lang/erlang \
-		edown:${PORTSDIR}/textproc/edown \
-		gen_leader:${PORTSDIR}/devel/gen_leader
+		edown>0:${PORTSDIR}/textproc/edown \
+		gen_leader>0:${PORTSDIR}/devel/gen_leader
 
 PLIST_SUB=	VERSION="${PORTVERSION}"
 
