@@ -19,8 +19,6 @@ GH_PROJECT=	cowlib
 GH_COMMIT=	f58340a
 GH_TAGNAME=	${PORTVERSION}
 
-PORTDOCS=	*
-
 .include <bsd.port.options.mk>
 
 do-install:
