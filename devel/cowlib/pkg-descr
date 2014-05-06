@@ -1,0 +1,9 @@
+Cowlib is a support library for manipulating Web protocols.
+
+Cowlib provides libraries for parsing and building messages
+or various Web protocols, including SPDY, HTTP and Websocket.
+
+It is optimized for completeness rather than speed.
+No value is ignored, they are all returned.
+
+WWW: https://github.com/extend/cowlib
