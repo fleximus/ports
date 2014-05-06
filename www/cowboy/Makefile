@@ -10,7 +10,7 @@ COMMENT=	Small, fast and modular HTTP server written in Erlang
 BUILD_DEPENDS=	erlc:${PORTSDIR}/lang/erlang
 RUN_DEPENDS=	erl:${PORTSDIR}/lang/erlang \
 		ranch>=0:${PORTSDIR}/net/ranch \
-		cowlib>=0:${PORTSDIR}/www/cowlib
+		cowlib>=0:${PORTSDIR}/devel/cowlib
 
 PLIST_SUB=	VERSION="${PORTVERSION}"
 
