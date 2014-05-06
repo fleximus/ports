@@ -206,6 +206,8 @@
 %%PORTEXAMPLES%%@dirrm %%EXAMPLESDIR%%/rest_pastebin
 %%PORTEXAMPLES%%@dirrm %%EXAMPLESDIR%%/rest_hello_world/src
 %%PORTEXAMPLES%%@dirrm %%EXAMPLESDIR%%/rest_hello_world
+%%PORTEXAMPLES%%@dirrm %%EXAMPLESDIR%%/rest_basic_auth/src
+%%PORTEXAMPLES%%@dirrm %%EXAMPLESDIR%%/rest_basic_auth
 %%PORTEXAMPLES%%@dirrm %%EXAMPLESDIR%%/markdown_middleware/src
 %%PORTEXAMPLES%%@dirrm %%EXAMPLESDIR%%/markdown_middleware/priv
 %%PORTEXAMPLES%%@dirrm %%EXAMPLESDIR%%/markdown_middleware
