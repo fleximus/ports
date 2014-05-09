@@ -30,20 +30,23 @@ PORTDOCS=	AUTHORS BUGS ChangeLog NEWS README TODO
 PORTEXAMPLES=	bip.conf bip.vim
 
 NO_STAGE=	yes
+
+OPTIONS_DEFINE=	DOCS EXAMPLES
+
 .include <bsd.port.pre.mk>
 
 post-install:
 	@cd ${WRKSRC} && ${INSTALL_MAN} ${MAN1} ${MANPREFIX}/man/man1
 	@cd ${WRKSRC} && ${INSTALL_MAN} ${MAN5} ${MANPREFIX}/man/man5
 
-.if !defined(NOPORTDOCS)
+.if ${PORT_OPTIONS:MDOCS}
 	@${MKDIR} ${DOCSDIR}
 .for docs in ${PORTDOCS}
 	${INSTALL_DATA} ${WRKSRC}/${docs} ${DOCSDIR}
 .endfor
 .endif
 
-.if !defined(NOPORTEXAMPLES)
+.if ${PORT_OPTIONS:MEXAMPLES}
 	@${MKDIR} ${EXAMPLESDIR}
 .for examples in ${PORTEXAMPLES}
 	${INSTALL_DATA} ${WRKSRC}/samples/${examples} ${EXAMPLESDIR}
